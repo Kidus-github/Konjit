@@ -1,5 +1,5 @@
-````markdown
-# Konjit - Women's Clothing & Accessories App (Portfolio Project)
+
+## Konjit - Women's Clothing & Accessories App (Portfolio Project)
 
 Welcome to **Konjit**, a conceptual mobile shopping app exclusively for women's fashion and accessories! Konjit is designed to provide a seamless and stylish shopping experience, offering users access to the latest trends, classic styles, and high-quality accessories with an intuitive, user-friendly interface. From casual outfits to chic accessories, Konjit brings all aspects of women’s fashion together in one place.
 
