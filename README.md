@@ -88,6 +88,3 @@ This project is a personal portfolio project and is not intended for commercial 
 
 Thank you for checking out **Konjit**! This project showcases my approach to mobile development and UI/UX design for fashion e-commerce. I hope you enjoy exploring it!
 
-```
-
-```
