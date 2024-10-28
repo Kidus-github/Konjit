@@ -34,7 +34,6 @@ To run this project locally, you’ll need:
    ```bash
    git clone https://github.com/Kidus-github/Konjit.git
    ```
-````
 
 2. **Navigate to the Project Directory**:
    ```bash
