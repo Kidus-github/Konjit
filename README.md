@@ -1,5 +1,5 @@
-````markdown
-# Konjit - Women's Clothing & Accessories App (Portfolio Project)
+
+## Konjit - Women's Clothing & Accessories App (Portfolio Project)
 
 Welcome to **Konjit**, a conceptual mobile shopping app exclusively for women's fashion and accessories! Konjit is designed to provide a seamless and stylish shopping experience, offering users access to the latest trends, classic styles, and high-quality accessories with an intuitive, user-friendly interface. From casual outfits to chic accessories, Konjit brings all aspects of women’s fashion together in one place.
 
@@ -34,7 +34,6 @@ To run this project locally, you’ll need:
    ```bash
    git clone https://github.com/Kidus-github/Konjit.git
    ```
-````
 
 2. **Navigate to the Project Directory**:
    ```bash
@@ -89,6 +88,3 @@ This project is a personal portfolio project and is not intended for commercial 
 
 Thank you for checking out **Konjit**! This project showcases my approach to mobile development and UI/UX design for fashion e-commerce. I hope you enjoy exploring it!
 
-```
-
-```
